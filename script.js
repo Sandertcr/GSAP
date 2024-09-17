@@ -1,0 +1,1 @@
+gsap.from(".fred", { opacity: 0, y: 100, duration: 1 });
